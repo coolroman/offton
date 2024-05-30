@@ -1,1 +1,1 @@
-# offton
+Empowering seamless event participation and accountability with a secure crypto-backed registration system. Our application ensures efficient event management for organizers while providing attendees with a reliable and refundable commitment mechanism, fostering trust and punctuality in offline events.
